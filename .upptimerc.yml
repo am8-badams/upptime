@@ -6,7 +6,7 @@ sites:
   - name: AllTyres2U
     url: https://alltyres2u.com.au
   - name: Octopus 
-    url: https://octopus.auto8tions.com.au
+    url: https://octopus.autom8tions.com.au
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
