@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4015,
-    "timeDay": 4015,
-    "timeWeek": 4015,
-    "timeMonth": 4015,
-    "timeYear": 4015,
+    "time": 3974,
+    "timeDay": 3974,
+    "timeWeek": 3974,
+    "timeMonth": 3974,
+    "timeYear": 3974,
     "dailyMinutesDown": {}
   },
   {
     "name": "Octopus",
-    "url": "https://octopus.autom8tions.com.au/api/serverstatus/health",
-    "icon": "https://icons.duckduckgo.com/ip3/octopus.autom8tions.com.au.ico",
+    "url": "$OCTOPUS_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "octopus",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 61,
-    "timeDay": 61,
-    "timeWeek": 61,
-    "timeMonth": 61,
-    "timeYear": 61,
+    "time": 219,
+    "timeDay": 219,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-03-26": 51
+      "2023-03-26": 61
     }
   }
 ]
