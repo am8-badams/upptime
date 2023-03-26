@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3928,
-    "timeDay": 3928,
-    "timeWeek": 3928,
-    "timeMonth": 3928,
-    "timeYear": 3928,
+    "time": 3962,
+    "timeDay": 3962,
+    "timeWeek": 3962,
+    "timeMonth": 3962,
+    "timeYear": 3962,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Octopus",
-    "url": "https://octopus.autom8tions.com.au/app#/users/sign-in",
-    "icon": "https://icons.duckduckgo.com/ip3/octopus.autom8tions.com.au.ico",
-    "slug": "octopus",
-    "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
-    "time": 83,
-    "timeDay": 83,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 83,
-    "dailyMinutesDown": {
-      "2023-03-26": 7
-    }
   }
 ]
