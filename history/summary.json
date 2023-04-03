@@ -22,7 +22,7 @@
     "url": "$OCTOPUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "octopus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 839,
     "timeMonth": 637,
     "timeYear": 637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-03": 0
+    }
   }
 ]
