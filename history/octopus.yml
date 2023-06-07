@@ -1,7 +1,7 @@
 url: $OCTOPUS_URL
 status: down
 code: 401
-responseTime: 734
-lastUpdated: 2023-06-06T23:09:43.875Z
+responseTime: 581
+lastUpdated: 2023-06-07T23:10:16.856Z
 startTime: Sun Mar 26 2023 10:08:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
