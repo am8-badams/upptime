@@ -1,7 +1,7 @@
 url: $OCTOPUS_URL
 status: up
 code: 200
-responseTime: 777
-lastUpdated: 2023-08-29T23:08:46.518Z
+responseTime: 685
+lastUpdated: 2023-08-30T23:09:32.298Z
 startTime: 2023-03-26T10:08:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
