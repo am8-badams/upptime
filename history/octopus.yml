@@ -1,7 +1,7 @@
 url: $OCTOPUS_URL
 status: down
 code: 503
-responseTime: 716
-lastUpdated: 2024-01-29T23:11:10.442Z
+responseTime: 792
+lastUpdated: 2024-01-30T23:11:23.788Z
 startTime: 2023-03-26T10:08:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
