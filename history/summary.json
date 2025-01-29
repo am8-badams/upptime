@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alltyres2u.com.au.ico",
     "slug": "all-tyres2-u",
     "status": "down",
-    "uptime": "53.06%",
+    "uptime": "52.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.48%",
-    "time": 3600,
-    "timeDay": 110,
-    "timeWeek": 141,
-    "timeMonth": 261,
-    "timeYear": 2821,
+    "uptimeYear": "13.21%",
+    "time": 3595,
+    "timeDay": 176,
+    "timeWeek": 145,
+    "timeMonth": 263,
+    "timeYear": 2693,
     "dailyMinutesDown": {
-      "2025-01-28": 46,
+      "2025-01-29": 46,
+      "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -352,8 +353,7 @@
       "2024-02-04": 167,
       "2024-02-02": 17,
       "2024-02-01": 20,
-      "2024-01-31": 15,
-      "2024-01-30": 124
+      "2024-01-31": 15
     }
   },
   {
@@ -362,18 +362,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "octopus",
     "status": "down",
-    "uptime": "25.43%",
+    "uptime": "25.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2077,
+    "time": 2095,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2011,
+    "timeYear": 2092,
     "dailyMinutesDown": {
-      "2025-01-28": 46,
+      "2025-01-29": 46,
+      "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -736,8 +737,7 @@
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
-      "2024-01-31": 1440,
-      "2024-01-30": 1440
+      "2024-01-31": 1440
     }
   }
 ]
