@@ -4,17 +4,17 @@
     "url": "https://alltyres2u.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/alltyres2u.com.au.ico",
     "slug": "all-tyres2-u",
-    "status": "up",
-    "uptime": "91.92%",
-    "uptimeDay": "54.92%",
-    "uptimeWeek": "18.97%",
-    "uptimeMonth": "4.17%",
-    "uptimeYear": "83.65%",
-    "time": 2341,
+    "status": "down",
+    "uptime": "92.10%",
+    "uptimeDay": "54.91%",
+    "uptimeWeek": "19.13%",
+    "uptimeMonth": "4.20%",
+    "uptimeYear": "84.02%",
+    "time": 2337,
     "timeDay": 5336,
-    "timeWeek": 3809,
-    "timeMonth": 3617,
-    "timeYear": 1657,
+    "timeWeek": 3785,
+    "timeMonth": 3602,
+    "timeYear": 1654,
     "dailyMinutesDown": {
       "2025-04-02": 589,
       "2025-04-01": 887,
@@ -76,8 +76,7 @@
       "2025-02-04": 1419,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1428,
-      "2025-01-31": 993
+      "2025-02-01": 510
     }
   },
   {
@@ -97,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 1220,
+      "2025-04-02": 1236,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
